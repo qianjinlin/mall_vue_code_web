@@ -1,5 +1,6 @@
 # a_vuemall
-
+#
+npm i nprogress
 ## Project setup
 ```
 npm install
